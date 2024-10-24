@@ -9,6 +9,9 @@ public class HolaProfe {
 		System.out.println("Hola, mi nombre es Mario Romero");
 
 		System.out.println("Hola, mi nombre es Antonio Rodríguez");
+
+		System.out.println("Buenas, soy Manolo. Ahora debéis obtener los cambios desde Eclipse. No olividéis documentarlo con capturas de pantalla ");
+
 	}
 
 }
