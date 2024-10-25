@@ -13,6 +13,10 @@ public class HolaProfe {
 		System.out.println("Buenas, soy Manolo. Ahora debéis obtener los cambios desde Eclipse. No olividéis documentarlo con capturas de pantalla ");
 		
 		System.out.println("MBAPPE");
+
+		System.out.println("Cambios para conflicto");
+
+
 	}
 
 }
